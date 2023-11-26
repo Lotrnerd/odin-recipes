@@ -1,0 +1,24 @@
+#title {
+    color: #e09f3e;
+    text-align: center;
+}
+body {
+    background-color: #f3e7d3;
+}
+#omimg {
+    width: %100;
+    height: auto;
+    border-radius: 10px;
+}
+.header {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#description {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+.list {
+    font-style: oblique;
+    text-decoration: double;
+}

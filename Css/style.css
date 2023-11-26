@@ -1,0 +1,19 @@
+#title {
+    color: #e09f3e;
+    text-align: center;
+}
+body { 
+    background-color: #f3e7d3;
+    
+}
+.link { 
+    color: #954535;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: 600;
+}
+.paralink {
+    text-align: center;
+    
+}
